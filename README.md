@@ -3,7 +3,7 @@
 ## 
 
 - **Бот:** [@bot_bot](https://t.me/bot_bot)
-- **Презентация:** [https://docs.google.com/presentation/d/1DhV1a41K_DPxv5WG9N_defYvAOZpuaX3lQPt--H8TQY/edit?usp=sharing](#)
+- **Презентация:** [Презентация](https://docs.google.com/presentation/d/1DhV1a41K_DPxv5WG9N_defYvAOZpuaX3lQPt--H8TQY/edit?usp=sharing)
 
 ---
 
